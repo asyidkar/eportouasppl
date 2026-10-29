@@ -1,0 +1,1 @@
+E-Portfolio 2: buka index.html di browser. Seluruh sampul dan PDF tersedia offline, kecuali tautan Code Clash. Video per siklus masih menunggu URL. Pembagian pertemuan 7–9 sebagai siklus 2–4 adalah rancangan sementara.
